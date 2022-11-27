@@ -5,7 +5,7 @@ qker is a dumb go-quic based pkg
 ## Install
 
 ```bash
-go get github.com/johnhaha/qker@v0.0.1
+go get github.com/johnhaha/qker@v0.0.2
 ```
 
 ## server
